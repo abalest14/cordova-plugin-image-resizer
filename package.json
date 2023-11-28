@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-simple-image-resizer",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Plugin for resizing images only with the uri of the image.",
   "cordova": {
     "id": "cordova-plugin-simple-image-resizer",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JoschkaSchulz/cordova-plugin-image-resizer"
+    "url": "git+https://github.com/abalest14/cordova-plugin-image-resizer"
   },
   "keywords": [
     "ecosystem:cordova",
