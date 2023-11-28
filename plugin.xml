@@ -7,7 +7,7 @@
   <author>Joschka Schulz</author>
   <license>Apache 2.0</license>
   <keywords>cordova,device,resize,image</keywords>
-  <repo>https://github.com/protonet/cordova-plugin-image-resizer.git</repo>
+  <repo>https://github.com/abalest14/cordova-plugin-image-resizer.git</repo>
 
   <js-module src="www/image_resizer.js" name="ImageResizer">
     <clobbers target="ImageResizer" />
